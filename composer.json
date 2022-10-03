@@ -1,0 +1,23 @@
+{
+    "name": "sobraniebluee/rest.api",
+    "autoload": {
+        "psr-4": {
+            "Api\\": "Api/",
+            "Api\\Router\\": "Api/Router",
+            "Api\\Interfaces\\": "Api/Interfaces",
+            "Api\\Request\\": "Api/Request",
+            "Api\\Response\\": "Api/Response",
+            "Api\\Error\\": "Api/ErrorHtpp",
+            "Services\\": "src/services"
+        }
+    },
+    "authors": [
+        {
+            "name": "sobraniebluee",
+            "email": "dimf29@gmail.com"
+        }
+    ],
+    "require": {
+        "php-http/curl-client": "^2.2"
+    }
+}
