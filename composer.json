@@ -7,7 +7,7 @@
             "Api\\Interfaces\\": "Api/Interfaces",
             "Api\\Request\\": "Api/Request",
             "Api\\Response\\": "Api/Response",
-            "Api\\Error\\": "Api/ErrorHtpp",
+            "Api\\Error\\": "Api/ErrorHttp",
             "Services\\": "src/services"
         }
     },
