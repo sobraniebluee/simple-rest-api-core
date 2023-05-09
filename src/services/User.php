@@ -8,7 +8,8 @@ class User
 {
     public function getUser(Request $request, Response $response): Response
     {
-        $response->setJson(["message" => "Please...."])
+        $response
+            ->setJson(["message" => "Please...."])
             ->setStatusCode(401);
 
         return $response;

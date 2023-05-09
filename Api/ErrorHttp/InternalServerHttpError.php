@@ -1,6 +1,6 @@
 <?php
 
-namespace Api\ErrorHtpp;
+namespace Api\ErrorHttp;
 
 class InternalServerHttpError extends HttpError
 {

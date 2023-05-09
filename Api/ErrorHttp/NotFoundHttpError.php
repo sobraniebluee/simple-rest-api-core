@@ -1,6 +1,6 @@
 <?php
 
-namespace Api\ErrorHtpp;
+namespace Api\ErrorHttp;
 
 use Api\Response\Response;
 
