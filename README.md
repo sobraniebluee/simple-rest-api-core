@@ -11,4 +11,3 @@
 
 ```
 
-<script>alert("hello")</script>
