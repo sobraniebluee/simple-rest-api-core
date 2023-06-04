@@ -10,3 +10,5 @@
   $app->run();
 
 ```
+
+<script>alert("hello")</script>
